@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GooGleIT23
-- 👀 I’m interested in leaning programming languages
+- 👋 Hi, I’m Joshua Kadakampallil
+- 👀 I’m interested in learning programming languages
 - 🌱 I’m currently majoring bachelor's in computer science
 - 💞️ I’m looking to collaborate on Microsoft Teams
 - 📫 How to reach me (214)604-6465
